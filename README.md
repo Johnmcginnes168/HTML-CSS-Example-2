@@ -1,4 +1,4 @@
-# My Website
+# Example Website
 
 This is a personal website projects built with HTML and CSS and demonstrates a clean, responsive layout suitable for a portfolio or personal site.
 
